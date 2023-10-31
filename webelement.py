@@ -20,7 +20,7 @@ film_isimleri = driver.find_elements(By.XPATH, "//ul/li/div[@class='ipc-metadata
 #     print(film_isimleri[i].text)
 
 for i in film_isimleri:
-    if i.text[-5:-1] == "2020":
+    if i.text[-5:-1] == "2000":
         print(i.text)
 
 
