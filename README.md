@@ -1,3 +1,1 @@
-# selenium
-
-Selenium Eğitimi 
+Selenyum Eğitimi  
